@@ -1,0 +1,3 @@
+This project performs Exploratory Data Analysis (EDA) on the Netflix Titles dataset to better understand its structure, content attributes, and data quality. The notebook loads the dataset, creates a cleaned copy, inspects dataset dimensions and column types, checks for missing and duplicate values, and generates statistical summaries. It also uses visualizations such as a correlation heatmap, histograms, and boxplots to explore patterns in the data.
+
+The dataset contains 8,807 records and 12 columns, including information such as type, title, director, cast, country, date added, release year, rating, duration, genre, and description. After analysis, the cleaned dataset is exported as cleaned_dataset.csv for further use.
